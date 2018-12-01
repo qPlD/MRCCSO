@@ -1,0 +1,8 @@
+This project is made by Team Ben Vorlich (Kyle Burns, Quentin Deligny, Areez Memon, Abrar Shaikh and Nicholas Loo)
+
+Welcome to Healthy Henry, a text based role-playing game. You will take control of our main protagonist, Henry, and make decisions on behalf of him. 
+These choices have consequences on Henry's health, money and time. Your role as a player is to do the best you can to make sure Henry stays as healthy as possible,
+playing around certain constraints. There are also certain factors and complexities which are pre-determined 
+such as distance to nearest supermarket, initial budget, environments, laws etc.
+You will have no control over these factors, as a way to show that Henry can end up having a bad health even if
+you make the best possible choices for him (depending on these conditions). 
